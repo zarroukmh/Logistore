@@ -1,0 +1,56 @@
+flowchart LR
+  %% Sources
+  A1[Flux CATALOGUE CSV\n/data/inbox/catalogue] --> D1
+  A2[Flux MOUVEMENTS CSV\n/data/inbox/movements] --> D2
+
+  %% Orchestration
+  subgraph AF[Airflow]
+    D1[DAG1 ingest_catalogue]
+    D2[DAG2 ingest_movements]
+    D3[DAG3 inventory_analytics]
+    D4[DAG4 replay_rejected_movements - manuel]
+  end
+
+  %% Contrats
+  C1[(Pydantic CatalogueRecordV1/V2)] --> D1
+  C2[(Pydantic MovementRecordV1)] --> D2
+
+  %% Stockage opérationnel
+  subgraph PG[PostgreSQL - zone opérationnelle]
+    P1[(products)]
+    P2[(movements)]
+    P3[(rejected_movements\nDLQ: PENDING/REPLAYED)]
+  end
+
+  %% Stockage analytique
+  subgraph DL[Data Lake / fichiers]
+    F1[[catalogue_snapshot.parquet]]
+    F2[[movements_history.parquet]]
+    F3[[inventory_report_*.csv]]
+    F4[[movements_rejections_*.json]]
+    F5[[replay_report_*.json]]
+  end
+
+  %% DAG1
+  D1 -->|validate + upsert| P1
+  D1 -->|export snapshot| F1
+  D1 -. Dataset API .-> D2
+
+  %% DAG2
+  D2 -->|SKU connu| P2
+  D2 -->|SKU inconnu -> unknown_sku| P3
+  D2 -->|append analytics| F2
+  D2 -->|rapport rejets| F4
+  D2 -. Dataset API .-> D3
+
+  %% DAG3
+  F2 --> D3
+  F1 --> D3
+  D3 --> F3
+
+  %% DAG4
+  P3 --> D4
+  P1 --> D4
+  D4 -->|replay insert| P2
+  D4 -->|update status REPLAYED| P3
+  D4 --> F5
