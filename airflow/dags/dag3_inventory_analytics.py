@@ -55,12 +55,24 @@ def inventory_analytics():
         # TODO étudiant : enrichir cette requête
         # Ajouter la jointure avec le catalogue pour obtenir min_stock
         # et calculer le stock_status (OK / WARNING / ALERT)
+
+        catalogue_file = str(DATA_CURATED / "catalogue_snapshot.parquet")
+
         stock_df = conn.execute(f"""
             SELECT
-                sku,
-                SUM(quantity) AS current_stock
-            FROM read_parquet('{movements_file}')
-            GROUP BY sku
+                m.sku,
+                SUM(m.quantity)                          AS current_stock,
+                p.min_stock,
+                p.label,
+                p.category,
+                CASE
+                    WHEN SUM(m.quantity) <= 0            THEN 'ALERT'
+                    WHEN SUM(m.quantity) < p.min_stock   THEN 'WARNING'
+                    ELSE                                      'OK'
+                END                                      AS stock_status
+            FROM read_parquet('{movements_file}') AS m
+            JOIN read_parquet('{catalogue_file}') AS p ON m.sku = p.sku
+            GROUP BY m.sku, p.min_stock, p.label, p.category
             ORDER BY current_stock ASC
         """).df()
 
