@@ -10,8 +10,6 @@ import argparse
 import os
 
 import psycopg2
-import pandas as pd
-from psycopg2.extras import execute_values
 
 DSN = {
     "host": os.getenv("POSTGRES_HOST", "localhost"),

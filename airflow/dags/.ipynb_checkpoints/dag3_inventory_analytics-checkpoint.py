@@ -18,6 +18,7 @@ from datetime import datetime
 from pathlib import Path
 
 import duckdb
+import pandas as pd
 from airflow.datasets import Dataset
 from airflow.decorators import dag, task
 
