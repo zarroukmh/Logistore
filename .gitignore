@@ -7,7 +7,7 @@ data/curated/*.parquet
 data/curated/*.csv
 data/rejected/*.csv
 data/rejected/reports/*.json
-
+notebook/
 # Conserver les petits fichiers de test
 !tests/data/*.csv
 

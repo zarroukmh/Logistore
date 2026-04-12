@@ -85,7 +85,9 @@ def ingest_catalogue():
             return {"valid": 0, "rejected": 0, "skipped": True}
 
         # Lecture brute du CSV catalogue.
+
         df = pd.read_csv(filepath, dtype={"schema_version": "string"})
+
         valid_rows: list[dict] = []
         rejected_rows: list[dict] = []
 
