@@ -9,7 +9,6 @@ Ces tests vérifient le scénario complet :
 TODO étudiant : compléter le test d'intégration test_full_replay_scenario
 en implémentant la logique de rejeu dans les DAGs.
 """
-import pytest
 from datetime import datetime
 
 

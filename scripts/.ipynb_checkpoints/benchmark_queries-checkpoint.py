@@ -11,6 +11,7 @@ import time
 from pathlib import Path
 
 import duckdb
+import pandas as pd
 import psycopg2
 
 DSN = {

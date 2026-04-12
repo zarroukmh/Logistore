@@ -17,6 +17,8 @@ from __future__ import annotations
 from datetime import datetime
 from pathlib import Path
 
+import duckdb
+import pandas as pd
 from airflow.datasets import Dataset
 from airflow.decorators import dag, task
 
@@ -41,12 +43,9 @@ def inventory_analytics():
         Calcule le stock courant par SKU depuis Parquet via DuckDB.
         Retourne le chemin du rapport généré.
         """
-        # Import lazy pour éviter un Broken DAG si duckdb n'est pas encore installé
-        # dans le conteneur Airflow. L'erreur éventuelle devient une erreur de tâche,
-        # pas une erreur d'import du DAG.
-        import duckdb
-
         movements_file = str(DATA_CURATED / "movements_history.parquet")
+        catalogue_file = str(DATA_CURATED / "catalogue_snapshot.parquet")
+
         if not Path(movements_file).exists():
             print("Pas encore de fichier Parquet mouvements. Rien à calculer.")
             return ""

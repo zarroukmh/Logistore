@@ -12,16 +12,18 @@ import sys
 from pathlib import Path
 
 import psycopg2
+
 import pandas as pd
 from pydantic import TypeAdapter, ValidationError
 from psycopg2.extras import execute_values
+
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
-from contracts.catalogue_contract import get_catalogue_contract
-from contracts.movement_contract import MovementRecordV1
+from contracts.catalogue_contract import get_catalogue_contract  # noqa: E402
+from contracts.movement_contract import MovementRecordV1  # noqa: E402
 
 DSN = {
     "host": os.getenv("POSTGRES_HOST", "localhost"),

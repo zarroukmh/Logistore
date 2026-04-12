@@ -2,7 +2,7 @@ name: CI — Projet 6 LogiStore
 
 on:
   push:
-    branches: [main]
+    branches: [main, dev2_dag4__3]
   pull_request:
     branches: [main]
 
