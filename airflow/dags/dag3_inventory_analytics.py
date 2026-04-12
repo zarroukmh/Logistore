@@ -17,10 +17,6 @@ from __future__ import annotations
 from datetime import datetime
 from pathlib import Path
 
-
-import duckdb
-
-
 from airflow.datasets import Dataset
 from airflow.decorators import dag, task
 
