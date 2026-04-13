@@ -1,0 +1,2001 @@
+schema_version,sku,label,category,unit,min_stock,published_at,line_number,rejection_reason
+1.0,SKU-00000,Le confort d'avancer à l'état pur,FOOD,PCS,47,2024-01-09T00:00:00,2,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00001,L'avantage d'atteindre vos buts de manière efficace,ELEC,KG,8,2024-01-24T00:00:00,3,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00002,La possibilité de changer à sa source,FOOD,PCS,37,2024-01-14T00:00:00,4,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00003,L'art d'innover plus facilement,FOOD,PCS,5,2024-01-07T00:00:00,5,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00004,L'art d'avancer plus rapidement,ELEC,PCS,35,2024-01-07T00:00:00,6,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00005,L'avantage d'innover de manière sûre,OTHER,BOX,14,2024-01-15T00:00:00,7,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00006,Le droit d'avancer autrement,OTHER,L,0,2024-01-25T00:00:00,8,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00007,L'avantage de changer à sa source,ELEC,BOX,21,2024-01-09T00:00:00,9,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00008,Le pouvoir d'innover naturellement,ELEC,KG,48,2024-01-11T00:00:00,10,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00009,Le confort de louer avant-tout,FOOD,PCS,24,2024-01-04T00:00:00,11,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00010,La liberté d'innover à sa source,TOOLS,L,38,2024-01-09T00:00:00,12,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00011,L'avantage d'évoluer à la pointe,FOOD,BOX,34,2024-01-04T00:00:00,13,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00012,Le confort de concrétiser vos projets autrement,CLOTHING,PCS,35,2024-01-10T00:00:00,14,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00013,La liberté de changer à l'état pur,OTHER,L,36,2024-01-07T00:00:00,15,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00014,L'art d'atteindre vos buts en toute tranquilité,FOOD,PCS,42,2024-01-08T00:00:00,16,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00015,Le pouvoir de concrétiser vos projets plus facilement,TOOLS,PCS,14,2024-01-28T00:00:00,17,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00016,Le confort de changer à sa source,FOOD,BOX,17,2024-01-15T00:00:00,18,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00017,L'avantage d'atteindre vos buts sans soucis,TOOLS,KG,23,2024-01-12T00:00:00,19,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00018,L'art de changer plus facilement,ELEC,L,44,2024-01-30T00:00:00,20,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00019,Le confort d'évoluer de manière sûre,FOOD,KG,34,2024-01-24T00:00:00,21,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00020,L'avantage d'avancer autrement,ELEC,KG,29,2024-01-13T00:00:00,22,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00021,L'avantage de concrétiser vos projets à la pointe,TOOLS,KG,43,2024-01-11T00:00:00,23,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00022,La possibilité de rouler à l'état pur,FOOD,KG,2,2024-01-26T00:00:00,24,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00023,La liberté d'innover de manière sûre,TOOLS,BOX,17,2024-01-03T00:00:00,25,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00024,Le plaisir d'innover autrement,ELEC,L,13,2024-01-21T00:00:00,26,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00025,Le droit de rouler à sa source,CLOTHING,BOX,41,2024-01-15T00:00:00,27,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00026,La possibilité d'évoluer à la pointe,ELEC,L,8,2024-01-08T00:00:00,28,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00027,Le confort de louer de manière sûre,OTHER,L,47,2024-01-19T00:00:00,29,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00028,La possibilité de rouler sans soucis,CLOTHING,BOX,23,2024-01-08T00:00:00,30,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00029,Le droit de rouler plus rapidement,ELEC,BOX,5,2024-01-25T00:00:00,31,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00030,L'assurance de changer de manière efficace,FOOD,PCS,9,2024-01-21T00:00:00,32,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00031,L'avantage d'avancer plus rapidement,ELEC,BOX,38,2024-01-03T00:00:00,33,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00032,Le plaisir d'évoluer plus facilement,CLOTHING,BOX,38,2024-01-15T00:00:00,34,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00033,La possibilité d'évoluer en toute tranquilité,OTHER,L,35,2024-01-28T00:00:00,35,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00034,Le pouvoir de louer naturellement,FOOD,PCS,43,2024-01-29T00:00:00,36,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00035,L'art de rouler sans soucis,OTHER,L,49,2024-01-21T00:00:00,37,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00036,L'avantage de changer de manière efficace,TOOLS,PCS,18,2024-01-14T00:00:00,38,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00037,Le pouvoir de changer plus rapidement,ELEC,BOX,0,2024-01-31T00:00:00,39,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00038,La liberté d'atteindre vos buts avant-tout,TOOLS,KG,32,2024-01-30T00:00:00,40,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00039,La liberté d'avancer de manière efficace,FOOD,L,40,2024-01-17T00:00:00,41,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00040,Le confort d'innover naturellement,OTHER,KG,9,2024-01-12T00:00:00,42,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00041,Le plaisir de concrétiser vos projets de manière sûre,ELEC,PCS,38,2024-01-11T00:00:00,43,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00042,Le confort d'atteindre vos buts naturellement,CLOTHING,PCS,7,2024-01-30T00:00:00,44,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00043,Le pouvoir de rouler autrement,TOOLS,L,15,2024-01-02T00:00:00,45,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00044,Le droit d'innover autrement,ELEC,PCS,5,2024-01-24T00:00:00,46,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00045,Le confort de changer en toute tranquilité,CLOTHING,PCS,48,2024-01-18T00:00:00,47,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00046,La possibilité d'évoluer de manière efficace,ELEC,KG,42,2024-01-16T00:00:00,48,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00047,Le confort d'avancer sans soucis,OTHER,KG,16,2024-01-17T00:00:00,49,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00048,La liberté de changer autrement,OTHER,BOX,13,2024-01-30T00:00:00,50,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00049,L'avantage de changer sans soucis,OTHER,KG,45,2024-01-10T00:00:00,51,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00050,L'avantage d'avancer autrement,CLOTHING,L,28,2024-01-29T00:00:00,52,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00051,L'assurance de changer à l'état pur,OTHER,BOX,7,2024-01-08T00:00:00,53,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00052,La liberté d'innover naturellement,ELEC,PCS,21,2024-01-01T00:00:00,54,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00053,Le plaisir de rouler naturellement,OTHER,KG,37,2024-01-08T00:00:00,55,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00054,Le plaisir de changer à la pointe,FOOD,PCS,45,2024-01-21T00:00:00,56,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00055,Le confort de louer plus rapidement,FOOD,KG,4,2024-01-29T00:00:00,57,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00056,L'art d'innover plus facilement,FOOD,L,4,2024-01-17T00:00:00,58,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00057,La possibilité d'innover sans soucis,ELEC,L,42,2024-01-16T00:00:00,59,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00058,La liberté d'innover à l'état pur,ELEC,KG,46,2024-01-30T00:00:00,60,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00059,Le confort d'innover plus rapidement,OTHER,BOX,15,2024-01-26T00:00:00,61,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00060,La possibilité d'évoluer en toute tranquilité,CLOTHING,BOX,12,2024-01-04T00:00:00,62,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00061,L'avantage de changer à sa source,FOOD,BOX,22,2024-01-14T00:00:00,63,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00062,L'assurance de rouler plus rapidement,CLOTHING,BOX,46,2024-01-02T00:00:00,64,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00063,L'assurance de rouler de manière efficace,FOOD,PCS,25,2024-01-24T00:00:00,65,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00064,Le confort d'innover plus facilement,TOOLS,PCS,15,2024-01-07T00:00:00,66,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00065,La possibilité d'atteindre vos buts à la pointe,ELEC,BOX,8,2024-01-14T00:00:00,67,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00066,Le plaisir d'avancer à sa source,ELEC,L,29,2024-01-08T00:00:00,68,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00067,L'avantage d'évoluer autrement,FOOD,BOX,35,2024-01-04T00:00:00,69,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00068,L'art de changer à l'état pur,FOOD,PCS,5,2024-01-30T00:00:00,70,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00069,La liberté d'avancer avant-tout,ELEC,KG,26,2024-01-16T00:00:00,71,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00070,Le confort d'atteindre vos buts de manière efficace,CLOTHING,KG,25,2024-01-29T00:00:00,72,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00071,L'art d'atteindre vos buts de manière sûre,FOOD,KG,24,2024-01-01T00:00:00,73,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00072,L'assurance d'évoluer de manière sûre,CLOTHING,L,50,2024-01-26T00:00:00,74,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00073,Le pouvoir de louer en toute tranquilité,CLOTHING,L,27,2024-01-23T00:00:00,75,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00074,L'assurance de louer à l'état pur,OTHER,BOX,9,2024-01-07T00:00:00,76,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00075,La liberté de louer de manière efficace,TOOLS,KG,3,2024-01-19T00:00:00,77,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00076,L'assurance d'évoluer sans soucis,OTHER,PCS,47,2024-01-11T00:00:00,78,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00077,L'art de louer autrement,FOOD,PCS,37,2024-01-16T00:00:00,79,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00078,Le pouvoir de changer en toute tranquilité,OTHER,KG,3,2024-01-31T00:00:00,80,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00079,Le pouvoir de rouler à la pointe,OTHER,PCS,11,2024-01-03T00:00:00,81,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00080,L'art d'atteindre vos buts plus rapidement,OTHER,PCS,43,2024-01-28T00:00:00,82,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00081,L'avantage de louer à l'état pur,ELEC,BOX,7,2024-01-31T00:00:00,83,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00082,L'assurance d'innover à l'état pur,OTHER,KG,37,2024-01-20T00:00:00,84,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00083,L'art d'atteindre vos buts à sa source,FOOD,PCS,26,2024-01-22T00:00:00,85,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00084,La liberté d'atteindre vos buts à l'état pur,OTHER,L,16,2024-01-07T00:00:00,86,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00085,L'avantage d'innover autrement,TOOLS,KG,16,2024-01-13T00:00:00,87,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00086,L'avantage de louer naturellement,ELEC,L,29,2024-01-11T00:00:00,88,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00087,Le droit de changer à la pointe,FOOD,PCS,29,2024-01-20T00:00:00,89,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00088,Le confort d'avancer en toute tranquilité,OTHER,PCS,4,2024-01-18T00:00:00,90,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00089,Le plaisir de changer à l'état pur,ELEC,L,8,2024-01-30T00:00:00,91,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00090,Le droit d'atteindre vos buts à l'état pur,TOOLS,PCS,15,2024-01-12T00:00:00,92,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00091,Le pouvoir de concrétiser vos projets autrement,TOOLS,KG,28,2024-01-27T00:00:00,93,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00092,Le confort de rouler de manière sûre,OTHER,L,39,2024-01-26T00:00:00,94,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00093,Le pouvoir de changer plus facilement,OTHER,PCS,42,2024-01-27T00:00:00,95,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00094,Le droit d'évoluer de manière sûre,OTHER,L,42,2024-01-04T00:00:00,96,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00095,La liberté de louer de manière sûre,ELEC,L,7,2024-01-29T00:00:00,97,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00096,Le confort de concrétiser vos projets naturellement,FOOD,KG,17,2024-01-10T00:00:00,98,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00097,La liberté de changer en toute tranquilité,OTHER,KG,45,2024-01-11T00:00:00,99,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00098,L'art de louer à la pointe,ELEC,L,32,2024-01-16T00:00:00,100,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00099,Le confort de changer plus rapidement,TOOLS,PCS,5,2024-01-21T00:00:00,101,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00100,Le pouvoir de louer à la pointe,CLOTHING,L,2,2024-01-01T00:00:00,102,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00101,Le droit de rouler avant-tout,TOOLS,KG,40,2024-01-09T00:00:00,103,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00102,Le pouvoir d'atteindre vos buts à la pointe,ELEC,BOX,35,2024-01-23T00:00:00,104,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00103,Le droit de changer en toute tranquilité,CLOTHING,PCS,7,2024-01-03T00:00:00,105,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00104,Le droit de rouler autrement,ELEC,PCS,23,2024-01-19T00:00:00,106,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00105,La liberté d'atteindre vos buts à sa source,OTHER,KG,27,2024-01-05T00:00:00,107,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00106,Le droit d'évoluer sans soucis,FOOD,L,23,2024-01-29T00:00:00,108,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00107,Le pouvoir de rouler plus rapidement,FOOD,L,13,2024-01-22T00:00:00,109,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00108,Le confort de concrétiser vos projets plus facilement,ELEC,PCS,22,2024-01-25T00:00:00,110,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00109,L'assurance d'atteindre vos buts avant-tout,OTHER,BOX,39,2024-01-24T00:00:00,111,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00110,Le droit de louer avant-tout,ELEC,KG,10,2024-01-26T00:00:00,112,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00111,L'assurance d'atteindre vos buts en toute tranquilité,ELEC,BOX,1,2024-01-06T00:00:00,113,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00112,Le droit de rouler à sa source,TOOLS,BOX,42,2024-01-28T00:00:00,114,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00113,L'art de changer à l'état pur,ELEC,L,10,2024-01-26T00:00:00,115,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00114,La liberté de rouler de manière sûre,FOOD,BOX,2,2024-01-28T00:00:00,116,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00115,Le droit d'avancer sans soucis,CLOTHING,KG,12,2024-01-27T00:00:00,117,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00116,Le droit d'innover de manière sûre,CLOTHING,L,19,2024-01-27T00:00:00,118,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00117,Le confort d'avancer de manière sûre,ELEC,KG,1,2024-01-22T00:00:00,119,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00118,L'assurance d'avancer sans soucis,ELEC,BOX,21,2024-01-09T00:00:00,120,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00119,L'assurance d'atteindre vos buts autrement,FOOD,L,22,2024-01-21T00:00:00,121,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00120,Le plaisir de changer plus rapidement,OTHER,BOX,43,2024-01-27T00:00:00,122,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00121,La liberté d'avancer de manière sûre,OTHER,L,1,2024-01-04T00:00:00,123,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00122,L'art d'atteindre vos buts à l'état pur,TOOLS,KG,37,2024-01-31T00:00:00,124,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00123,Le plaisir de louer de manière efficace,TOOLS,PCS,6,2024-01-20T00:00:00,125,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00124,Le droit d'avancer autrement,CLOTHING,L,46,2024-01-26T00:00:00,126,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00125,La liberté de concrétiser vos projets à sa source,TOOLS,BOX,38,2024-01-17T00:00:00,127,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00126,Le pouvoir d'évoluer à sa source,FOOD,BOX,36,2024-01-07T00:00:00,128,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00127,L'avantage de concrétiser vos projets naturellement,TOOLS,PCS,45,2024-01-14T00:00:00,129,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00128,L'avantage d'innover avant-tout,FOOD,KG,23,2024-01-14T00:00:00,130,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00129,Le plaisir d'innover naturellement,FOOD,L,39,2024-01-11T00:00:00,131,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00130,Le droit d'atteindre vos buts avant-tout,FOOD,L,32,2024-01-10T00:00:00,132,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00131,Le droit de louer plus facilement,CLOTHING,L,25,2024-01-23T00:00:00,133,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00132,L'art d'innover sans soucis,TOOLS,KG,12,2024-01-14T00:00:00,134,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00133,La possibilité de rouler à la pointe,CLOTHING,KG,39,2024-01-19T00:00:00,135,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00134,Le plaisir de changer à sa source,TOOLS,BOX,35,2024-01-27T00:00:00,136,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00135,Le droit de changer à sa source,FOOD,L,18,2024-01-07T00:00:00,137,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00136,La liberté de concrétiser vos projets naturellement,CLOTHING,L,29,2024-01-15T00:00:00,138,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00137,Le droit de louer autrement,CLOTHING,KG,32,2024-01-16T00:00:00,139,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00138,L'art de concrétiser vos projets en toute tranquilité,ELEC,PCS,18,2024-01-17T00:00:00,140,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00139,L'assurance de changer plus rapidement,OTHER,L,5,2024-01-27T00:00:00,141,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00140,L'art d'avancer à sa source,ELEC,L,14,2024-01-26T00:00:00,142,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00141,L'assurance d'innover plus rapidement,ELEC,KG,1,2024-01-02T00:00:00,143,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00142,L'assurance de changer avant-tout,ELEC,BOX,39,2024-01-28T00:00:00,144,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00143,L'assurance de rouler à sa source,FOOD,BOX,26,2024-01-29T00:00:00,145,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00144,L'assurance de rouler de manière efficace,OTHER,KG,45,2024-01-23T00:00:00,146,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00145,Le confort de concrétiser vos projets plus rapidement,CLOTHING,BOX,25,2024-01-08T00:00:00,147,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00146,L'avantage d'innover naturellement,ELEC,PCS,48,2024-01-28T00:00:00,148,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00147,Le droit de louer plus facilement,FOOD,BOX,14,2024-01-06T00:00:00,149,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00148,L'assurance de concrétiser vos projets plus rapidement,OTHER,BOX,3,2024-01-18T00:00:00,150,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00149,Le pouvoir de concrétiser vos projets plus rapidement,ELEC,PCS,29,2024-01-05T00:00:00,151,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00150,Le confort d'évoluer de manière sûre,CLOTHING,L,48,2024-01-29T00:00:00,152,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00151,Le plaisir de changer plus rapidement,CLOTHING,BOX,35,2024-01-15T00:00:00,153,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00152,L'avantage de changer de manière sûre,ELEC,BOX,28,2024-01-09T00:00:00,154,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00153,Le droit de concrétiser vos projets en toute tranquilité,ELEC,L,49,2024-01-25T00:00:00,155,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00154,L'assurance de rouler sans soucis,OTHER,BOX,40,2024-01-08T00:00:00,156,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00155,Le confort de changer plus facilement,TOOLS,BOX,4,2024-01-23T00:00:00,157,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00156,Le confort de rouler autrement,TOOLS,KG,17,2024-01-11T00:00:00,158,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00157,L'avantage de concrétiser vos projets en toute tranquilité,TOOLS,PCS,8,2024-01-05T00:00:00,159,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00158,Le droit d'avancer à l'état pur,ELEC,BOX,44,2024-01-05T00:00:00,160,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00159,L'assurance de changer autrement,ELEC,PCS,26,2024-01-14T00:00:00,161,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00160,La possibilité de changer à l'état pur,TOOLS,BOX,26,2024-01-02T00:00:00,162,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00161,L'assurance d'évoluer plus rapidement,ELEC,BOX,24,2024-01-29T00:00:00,163,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00162,Le confort d'innover sans soucis,OTHER,PCS,48,2024-01-19T00:00:00,164,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00163,Le droit d'avancer naturellement,CLOTHING,BOX,0,2024-01-31T00:00:00,165,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00164,Le pouvoir d'innover à la pointe,TOOLS,L,48,2024-01-13T00:00:00,166,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00165,Le droit d'avancer sans soucis,CLOTHING,KG,31,2024-01-08T00:00:00,167,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00166,Le pouvoir de louer sans soucis,TOOLS,BOX,31,2024-01-01T00:00:00,168,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00167,La liberté d'innover sans soucis,CLOTHING,L,42,2024-01-22T00:00:00,169,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00168,Le confort de concrétiser vos projets à la pointe,CLOTHING,KG,29,2024-01-30T00:00:00,170,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00169,L'assurance d'évoluer sans soucis,ELEC,PCS,25,2024-01-19T00:00:00,171,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00170,La liberté de concrétiser vos projets plus rapidement,OTHER,PCS,5,2024-01-21T00:00:00,172,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00171,L'art d'atteindre vos buts avant-tout,CLOTHING,KG,29,2024-01-06T00:00:00,173,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00172,L'art d'atteindre vos buts à sa source,FOOD,L,24,2024-01-11T00:00:00,174,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00173,Le droit d'avancer avant-tout,ELEC,BOX,20,2024-01-11T00:00:00,175,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00174,L'art d'avancer de manière sûre,CLOTHING,L,48,2024-01-31T00:00:00,176,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00175,La possibilité de rouler à l'état pur,CLOTHING,L,5,2024-01-16T00:00:00,177,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00176,L'avantage de concrétiser vos projets à l'état pur,FOOD,PCS,22,2024-01-08T00:00:00,178,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00177,L'assurance de concrétiser vos projets à sa source,FOOD,PCS,48,2024-01-01T00:00:00,179,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00178,Le plaisir de rouler à l'état pur,ELEC,KG,1,2024-01-20T00:00:00,180,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00179,Le confort d'innover à la pointe,ELEC,KG,8,2024-01-16T00:00:00,181,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00180,La possibilité d'atteindre vos buts plus rapidement,FOOD,KG,29,2024-01-23T00:00:00,182,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00181,Le plaisir de concrétiser vos projets plus rapidement,TOOLS,L,10,2024-01-20T00:00:00,183,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00182,Le droit d'innover à la pointe,OTHER,PCS,49,2024-01-27T00:00:00,184,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00183,Le pouvoir de concrétiser vos projets naturellement,ELEC,L,6,2024-01-19T00:00:00,185,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00184,Le droit d'évoluer autrement,FOOD,L,36,2024-01-22T00:00:00,186,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00185,L'assurance d'atteindre vos buts avant-tout,CLOTHING,BOX,45,2024-01-07T00:00:00,187,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00186,Le droit de concrétiser vos projets avant-tout,FOOD,KG,6,2024-01-23T00:00:00,188,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00187,La possibilité d'atteindre vos buts naturellement,TOOLS,PCS,50,2024-01-19T00:00:00,189,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00188,Le droit d'atteindre vos buts autrement,FOOD,L,34,2024-01-14T00:00:00,190,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00189,Le droit de rouler plus facilement,TOOLS,PCS,32,2024-01-21T00:00:00,191,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00190,Le plaisir de concrétiser vos projets plus rapidement,TOOLS,PCS,26,2024-01-27T00:00:00,192,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00191,Le plaisir de concrétiser vos projets de manière sûre,CLOTHING,PCS,27,2024-01-31T00:00:00,193,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00192,L'art d'atteindre vos buts à l'état pur,TOOLS,BOX,45,2024-01-05T00:00:00,194,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00193,L'art d'atteindre vos buts avant-tout,CLOTHING,KG,46,2024-01-17T00:00:00,195,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00194,La possibilité de rouler sans soucis,TOOLS,BOX,29,2024-01-14T00:00:00,196,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00195,Le pouvoir d'avancer de manière sûre,OTHER,L,20,2024-01-28T00:00:00,197,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00196,Le droit d'évoluer à sa source,ELEC,PCS,17,2024-01-29T00:00:00,198,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00197,L'assurance de louer avant-tout,CLOTHING,KG,48,2024-01-15T00:00:00,199,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00198,Le confort de changer à la pointe,OTHER,BOX,21,2024-01-01T00:00:00,200,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00199,L'avantage d'évoluer plus facilement,CLOTHING,L,11,2024-01-16T00:00:00,201,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00200,Le plaisir d'atteindre vos buts sans soucis,ELEC,L,16,2024-01-11T00:00:00,202,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00201,La liberté d'innover naturellement,TOOLS,L,35,2024-01-01T00:00:00,203,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00202,La liberté de rouler de manière sûre,OTHER,KG,5,2024-01-08T00:00:00,204,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00203,L'assurance d'évoluer plus rapidement,CLOTHING,BOX,35,2024-01-25T00:00:00,205,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00204,L'art d'innover à l'état pur,ELEC,BOX,41,2024-01-23T00:00:00,206,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00205,Le plaisir de changer autrement,CLOTHING,BOX,50,2024-01-01T00:00:00,207,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00206,L'avantage d'innover à sa source,FOOD,L,14,2024-01-13T00:00:00,208,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00207,L'avantage de rouler sans soucis,ELEC,L,42,2024-01-19T00:00:00,209,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00208,L'assurance de changer sans soucis,TOOLS,BOX,35,2024-01-17T00:00:00,210,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00209,La liberté d'évoluer à l'état pur,TOOLS,BOX,47,2024-01-18T00:00:00,211,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00210,La liberté de rouler en toute tranquilité,TOOLS,L,44,2024-01-15T00:00:00,212,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00211,Le plaisir d'innover avant-tout,TOOLS,L,16,2024-01-08T00:00:00,213,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00212,Le confort de changer plus facilement,FOOD,KG,20,2024-01-04T00:00:00,214,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00213,L'assurance de concrétiser vos projets de manière sûre,OTHER,KG,12,2024-01-07T00:00:00,215,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00214,L'art d'avancer naturellement,CLOTHING,L,46,2024-01-19T00:00:00,216,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00215,La possibilité de louer plus rapidement,OTHER,L,6,2024-01-27T00:00:00,217,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00216,Le droit de louer à l'état pur,ELEC,L,14,2024-01-12T00:00:00,218,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00217,Le plaisir de changer naturellement,ELEC,L,0,2024-01-23T00:00:00,219,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00218,L'avantage de louer sans soucis,OTHER,KG,17,2024-01-02T00:00:00,220,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00219,La liberté d'avancer à l'état pur,FOOD,L,44,2024-01-31T00:00:00,221,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00220,L'assurance d'atteindre vos buts plus rapidement,ELEC,BOX,6,2024-01-28T00:00:00,222,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00221,Le pouvoir de concrétiser vos projets avant-tout,FOOD,L,30,2024-01-16T00:00:00,223,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00222,L'avantage d'évoluer autrement,CLOTHING,L,11,2024-01-31T00:00:00,224,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00223,Le droit d'atteindre vos buts en toute tranquilité,FOOD,L,30,2024-01-04T00:00:00,225,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00224,L'art de changer naturellement,FOOD,BOX,31,2024-01-03T00:00:00,226,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00225,La possibilité de louer de manière efficace,OTHER,PCS,9,2024-01-05T00:00:00,227,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00226,L'assurance de changer plus rapidement,OTHER,L,5,2024-01-08T00:00:00,228,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00227,Le plaisir de changer à l'état pur,FOOD,BOX,38,2024-01-20T00:00:00,229,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00228,L'avantage de changer plus rapidement,OTHER,KG,49,2024-01-17T00:00:00,230,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00229,L'art d'évoluer de manière sûre,CLOTHING,BOX,28,2024-01-10T00:00:00,231,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00230,L'assurance d'évoluer plus facilement,OTHER,BOX,19,2024-01-19T00:00:00,232,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00231,Le confort d'avancer à l'état pur,OTHER,PCS,39,2024-01-31T00:00:00,233,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00232,Le confort de rouler avant-tout,FOOD,KG,40,2024-01-07T00:00:00,234,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00233,L'avantage de louer de manière efficace,TOOLS,PCS,10,2024-01-08T00:00:00,235,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00234,L'assurance de rouler plus facilement,ELEC,PCS,10,2024-01-01T00:00:00,236,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00235,La possibilité d'avancer à sa source,CLOTHING,BOX,44,2024-01-20T00:00:00,237,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00236,Le droit de concrétiser vos projets de manière sûre,CLOTHING,L,2,2024-01-08T00:00:00,238,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00237,La possibilité d'avancer naturellement,TOOLS,L,44,2024-01-28T00:00:00,239,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00238,L'avantage de rouler à sa source,CLOTHING,PCS,43,2024-01-08T00:00:00,240,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00239,Le droit de rouler de manière efficace,TOOLS,KG,27,2024-01-04T00:00:00,241,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00240,Le pouvoir d'atteindre vos buts à l'état pur,OTHER,KG,41,2024-01-05T00:00:00,242,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00241,Le droit de concrétiser vos projets plus rapidement,TOOLS,KG,4,2024-01-02T00:00:00,243,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00242,L'art d'évoluer plus rapidement,ELEC,L,38,2024-01-24T00:00:00,244,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00243,L'assurance de louer autrement,OTHER,L,28,2024-01-04T00:00:00,245,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00244,Le droit d'atteindre vos buts plus rapidement,CLOTHING,L,44,2024-01-13T00:00:00,246,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00245,La liberté de changer autrement,TOOLS,BOX,28,2024-01-03T00:00:00,247,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00246,Le pouvoir d'atteindre vos buts à sa source,OTHER,PCS,27,2024-01-24T00:00:00,248,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00247,L'art d'atteindre vos buts avant-tout,TOOLS,L,1,2024-01-03T00:00:00,249,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00248,L'art d'évoluer à l'état pur,ELEC,PCS,48,2024-01-22T00:00:00,250,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00249,Le plaisir d'atteindre vos buts plus rapidement,TOOLS,PCS,48,2024-01-25T00:00:00,251,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00250,Le confort de rouler sans soucis,ELEC,BOX,33,2024-01-21T00:00:00,252,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00251,La liberté d'avancer autrement,CLOTHING,L,11,2024-01-19T00:00:00,253,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00252,L'assurance d'innover avant-tout,CLOTHING,BOX,5,2024-01-16T00:00:00,254,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00253,L'avantage de changer plus facilement,TOOLS,BOX,21,2024-01-11T00:00:00,255,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00254,Le plaisir d'innover sans soucis,FOOD,KG,21,2024-01-14T00:00:00,256,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00255,Le pouvoir de rouler sans soucis,CLOTHING,L,42,2024-01-31T00:00:00,257,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00256,L'art de louer de manière efficace,CLOTHING,PCS,29,2024-01-03T00:00:00,258,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00257,Le confort d'atteindre vos buts plus rapidement,TOOLS,L,20,2024-01-04T00:00:00,259,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00258,La liberté de rouler plus rapidement,CLOTHING,PCS,42,2024-01-28T00:00:00,260,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00259,Le pouvoir d'atteindre vos buts naturellement,OTHER,BOX,26,2024-01-02T00:00:00,261,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00260,Le confort de louer en toute tranquilité,ELEC,L,39,2024-01-25T00:00:00,262,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00261,L'avantage d'avancer de manière efficace,CLOTHING,BOX,48,2024-01-02T00:00:00,263,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00262,Le confort de rouler à l'état pur,ELEC,L,35,2024-01-05T00:00:00,264,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00263,L'assurance de concrétiser vos projets à l'état pur,TOOLS,BOX,44,2024-01-16T00:00:00,265,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00264,Le droit de concrétiser vos projets autrement,FOOD,PCS,40,2024-01-20T00:00:00,266,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00265,Le plaisir d'innover à l'état pur,ELEC,KG,19,2024-01-18T00:00:00,267,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00266,La possibilité d'innover de manière efficace,FOOD,BOX,5,2024-01-08T00:00:00,268,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00267,Le pouvoir de rouler de manière efficace,FOOD,BOX,7,2024-01-21T00:00:00,269,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00268,L'assurance de changer de manière sûre,ELEC,BOX,45,2024-01-10T00:00:00,270,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00269,L'assurance d'innover avant-tout,OTHER,L,26,2024-01-27T00:00:00,271,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00270,Le confort d'évoluer autrement,CLOTHING,BOX,15,2024-01-15T00:00:00,272,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00271,La possibilité de louer plus rapidement,OTHER,KG,24,2024-01-07T00:00:00,273,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00272,Le plaisir de louer sans soucis,OTHER,KG,4,2024-01-09T00:00:00,274,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00273,L'avantage d'atteindre vos buts à sa source,CLOTHING,L,50,2024-01-17T00:00:00,275,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00274,L'assurance d'avancer autrement,TOOLS,PCS,18,2024-01-24T00:00:00,276,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00275,L'art d'évoluer de manière sûre,TOOLS,BOX,9,2024-01-15T00:00:00,277,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00276,L'art d'avancer autrement,OTHER,BOX,22,2024-01-11T00:00:00,278,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00277,La possibilité d'avancer autrement,OTHER,BOX,29,2024-01-30T00:00:00,279,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00278,L'art de changer avant-tout,TOOLS,KG,44,2024-01-08T00:00:00,280,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00279,Le plaisir d'avancer à la pointe,OTHER,BOX,14,2024-01-28T00:00:00,281,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00280,L'art de louer à sa source,CLOTHING,PCS,20,2024-01-24T00:00:00,282,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00281,La liberté d'avancer plus facilement,CLOTHING,BOX,24,2024-01-22T00:00:00,283,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00282,Le droit de concrétiser vos projets à l'état pur,ELEC,BOX,2,2024-01-05T00:00:00,284,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00283,La liberté de louer plus facilement,OTHER,L,6,2024-01-28T00:00:00,285,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00284,Le plaisir de concrétiser vos projets naturellement,CLOTHING,PCS,33,2024-01-30T00:00:00,286,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00285,L'assurance de rouler avant-tout,CLOTHING,PCS,46,2024-01-05T00:00:00,287,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00286,L'assurance de concrétiser vos projets naturellement,CLOTHING,KG,4,2024-01-16T00:00:00,288,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00287,Le plaisir d'avancer sans soucis,TOOLS,L,39,2024-01-23T00:00:00,289,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00288,Le droit de rouler naturellement,CLOTHING,PCS,21,2024-01-28T00:00:00,290,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00289,L'art de concrétiser vos projets à la pointe,OTHER,BOX,20,2024-01-21T00:00:00,291,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00290,Le plaisir d'évoluer de manière efficace,CLOTHING,PCS,39,2024-01-03T00:00:00,292,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00291,Le droit de concrétiser vos projets à la pointe,ELEC,L,14,2024-01-24T00:00:00,293,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00292,L'art de louer en toute tranquilité,FOOD,BOX,6,2024-01-25T00:00:00,294,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00293,Le pouvoir de louer à l'état pur,FOOD,BOX,10,2024-01-23T00:00:00,295,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00294,La liberté de louer plus rapidement,TOOLS,PCS,2,2024-01-11T00:00:00,296,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00295,Le plaisir d'atteindre vos buts en toute tranquilité,FOOD,L,22,2024-01-12T00:00:00,297,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00296,La liberté d'évoluer avant-tout,CLOTHING,KG,15,2024-01-17T00:00:00,298,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00297,L'avantage d'évoluer avant-tout,CLOTHING,KG,10,2024-01-06T00:00:00,299,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00298,La liberté d'atteindre vos buts plus facilement,FOOD,BOX,39,2024-01-22T00:00:00,300,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00299,L'assurance d'atteindre vos buts à l'état pur,ELEC,BOX,37,2024-01-05T00:00:00,301,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00300,Le confort d'avancer à l'état pur,ELEC,BOX,40,2024-01-09T00:00:00,302,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00301,La possibilité de louer de manière efficace,CLOTHING,L,42,2024-01-01T00:00:00,303,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00302,Le confort d'avancer en toute tranquilité,CLOTHING,L,43,2024-01-18T00:00:00,304,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00303,La possibilité de rouler à l'état pur,ELEC,PCS,28,2024-01-31T00:00:00,305,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00304,L'avantage d'évoluer sans soucis,TOOLS,L,40,2024-01-31T00:00:00,306,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00305,Le confort d'évoluer plus facilement,CLOTHING,L,29,2024-01-28T00:00:00,307,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00306,Le droit de rouler autrement,TOOLS,KG,24,2024-01-28T00:00:00,308,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00307,La liberté de changer naturellement,CLOTHING,PCS,15,2024-01-13T00:00:00,309,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00308,Le droit de changer à la pointe,OTHER,L,36,2024-01-10T00:00:00,310,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00309,L'art de concrétiser vos projets naturellement,TOOLS,PCS,42,2024-01-13T00:00:00,311,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00310,Le pouvoir d'atteindre vos buts plus facilement,TOOLS,PCS,36,2024-01-28T00:00:00,312,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00311,La possibilité d'avancer à sa source,FOOD,BOX,18,2024-01-25T00:00:00,313,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00312,L'assurance d'avancer de manière sûre,ELEC,L,14,2024-01-21T00:00:00,314,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00313,L'assurance de concrétiser vos projets à la pointe,ELEC,L,43,2024-01-25T00:00:00,315,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00314,L'art de rouler autrement,ELEC,PCS,40,2024-01-21T00:00:00,316,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00315,Le confort d'évoluer de manière efficace,FOOD,L,50,2024-01-15T00:00:00,317,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00316,Le droit d'évoluer de manière sûre,FOOD,L,46,2024-01-05T00:00:00,318,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00317,Le droit de rouler plus rapidement,FOOD,L,20,2024-01-24T00:00:00,319,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00318,La possibilité d'atteindre vos buts plus rapidement,CLOTHING,KG,12,2024-01-05T00:00:00,320,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00319,L'avantage de rouler à l'état pur,OTHER,L,33,2024-01-17T00:00:00,321,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00320,Le confort d'innover autrement,TOOLS,KG,16,2024-01-30T00:00:00,322,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00321,Le confort d'avancer à la pointe,CLOTHING,L,47,2024-01-28T00:00:00,323,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00322,Le plaisir de rouler autrement,TOOLS,PCS,29,2024-01-31T00:00:00,324,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00323,L'art de changer à sa source,FOOD,KG,48,2024-01-31T00:00:00,325,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00324,L'avantage de louer plus facilement,ELEC,BOX,35,2024-01-12T00:00:00,326,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00325,La liberté de concrétiser vos projets à sa source,FOOD,BOX,0,2024-01-09T00:00:00,327,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00326,La liberté d'évoluer de manière sûre,OTHER,PCS,29,2024-01-12T00:00:00,328,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00327,Le plaisir de concrétiser vos projets de manière efficace,TOOLS,BOX,40,2024-01-31T00:00:00,329,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00328,La possibilité de concrétiser vos projets en toute tranquilité,TOOLS,PCS,43,2024-01-08T00:00:00,330,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00329,La liberté de changer en toute tranquilité,CLOTHING,PCS,39,2024-01-29T00:00:00,331,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00330,L'art d'atteindre vos buts autrement,OTHER,L,39,2024-01-08T00:00:00,332,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00331,Le pouvoir de louer plus facilement,FOOD,BOX,44,2024-01-10T00:00:00,333,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00332,Le droit de louer de manière sûre,CLOTHING,PCS,8,2024-01-02T00:00:00,334,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00333,Le plaisir d'atteindre vos buts plus rapidement,FOOD,L,31,2024-01-04T00:00:00,335,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00334,L'avantage d'évoluer à la pointe,FOOD,KG,34,2024-01-05T00:00:00,336,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00335,L'art d'avancer plus rapidement,CLOTHING,BOX,23,2024-01-22T00:00:00,337,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00336,La liberté d'innover en toute tranquilité,OTHER,BOX,37,2024-01-24T00:00:00,338,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00337,L'avantage d'atteindre vos buts plus facilement,ELEC,BOX,41,2024-01-04T00:00:00,339,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00338,L'art de concrétiser vos projets de manière efficace,CLOTHING,BOX,17,2024-01-02T00:00:00,340,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00339,L'avantage d'atteindre vos buts en toute tranquilité,TOOLS,KG,28,2024-01-15T00:00:00,341,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00340,Le plaisir d'atteindre vos buts avant-tout,ELEC,L,6,2024-01-22T00:00:00,342,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00341,La liberté de louer avant-tout,TOOLS,L,3,2024-01-13T00:00:00,343,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00342,L'avantage de rouler sans soucis,TOOLS,KG,7,2024-01-31T00:00:00,344,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00343,La liberté de concrétiser vos projets avant-tout,CLOTHING,PCS,42,2024-01-07T00:00:00,345,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00344,Le droit d'avancer sans soucis,OTHER,PCS,3,2024-01-26T00:00:00,346,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00345,La possibilité de louer autrement,TOOLS,KG,8,2024-01-26T00:00:00,347,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00346,La possibilité d'avancer en toute tranquilité,OTHER,KG,4,2024-01-27T00:00:00,348,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00347,Le droit de changer sans soucis,OTHER,KG,37,2024-01-07T00:00:00,349,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00348,Le droit de changer plus rapidement,ELEC,L,49,2024-01-05T00:00:00,350,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00349,Le plaisir de concrétiser vos projets plus facilement,OTHER,PCS,17,2024-01-28T00:00:00,351,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00350,Le plaisir de louer à l'état pur,ELEC,KG,34,2024-01-09T00:00:00,352,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00351,Le plaisir d'innover en toute tranquilité,ELEC,PCS,42,2024-01-28T00:00:00,353,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00352,La liberté d'évoluer de manière sûre,FOOD,KG,0,2024-01-12T00:00:00,354,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00353,La possibilité de changer plus rapidement,ELEC,L,1,2024-01-06T00:00:00,355,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00354,Le confort de changer de manière sûre,TOOLS,PCS,8,2024-01-24T00:00:00,356,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00355,Le droit d'évoluer sans soucis,CLOTHING,PCS,47,2024-01-03T00:00:00,357,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00356,Le plaisir d'innover autrement,CLOTHING,BOX,49,2024-01-12T00:00:00,358,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00357,La possibilité d'atteindre vos buts de manière sûre,OTHER,PCS,28,2024-01-17T00:00:00,359,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00358,L'avantage d'avancer plus facilement,ELEC,PCS,46,2024-01-26T00:00:00,360,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00359,La liberté d'avancer naturellement,OTHER,L,29,2024-01-21T00:00:00,361,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00360,La liberté de louer plus facilement,FOOD,PCS,30,2024-01-28T00:00:00,362,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00361,Le confort d'atteindre vos buts à la pointe,CLOTHING,BOX,43,2024-01-04T00:00:00,363,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00362,Le plaisir d'évoluer en toute tranquilité,CLOTHING,BOX,4,2024-01-29T00:00:00,364,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00363,Le confort de louer à sa source,FOOD,L,38,2024-01-05T00:00:00,365,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00364,L'assurance de changer à l'état pur,FOOD,KG,17,2024-01-20T00:00:00,366,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00365,Le confort d'innover sans soucis,OTHER,L,24,2024-01-20T00:00:00,367,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00366,La possibilité d'évoluer sans soucis,OTHER,L,29,2024-01-17T00:00:00,368,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00367,La liberté de changer de manière sûre,OTHER,BOX,6,2024-01-26T00:00:00,369,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00368,L'avantage de rouler naturellement,FOOD,KG,27,2024-01-15T00:00:00,370,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00369,La liberté d'innover naturellement,ELEC,BOX,21,2024-01-27T00:00:00,371,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00370,La liberté d'atteindre vos buts en toute tranquilité,CLOTHING,BOX,26,2024-01-24T00:00:00,372,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00371,Le plaisir de rouler plus facilement,FOOD,L,27,2024-01-11T00:00:00,373,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00372,Le pouvoir de concrétiser vos projets naturellement,TOOLS,L,9,2024-01-22T00:00:00,374,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00373,L'art d'évoluer avant-tout,CLOTHING,PCS,5,2024-01-27T00:00:00,375,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00374,L'art d'atteindre vos buts plus facilement,FOOD,PCS,27,2024-01-04T00:00:00,376,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00375,La possibilité d'avancer avant-tout,TOOLS,KG,35,2024-01-02T00:00:00,377,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00376,Le droit d'avancer en toute tranquilité,OTHER,L,42,2024-01-04T00:00:00,378,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00377,Le droit de concrétiser vos projets naturellement,CLOTHING,L,42,2024-01-31T00:00:00,379,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00378,Le droit de rouler plus rapidement,CLOTHING,PCS,18,2024-01-20T00:00:00,380,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00379,L'avantage de louer de manière efficace,TOOLS,L,6,2024-01-19T00:00:00,381,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00380,L'assurance de concrétiser vos projets sans soucis,OTHER,KG,9,2024-01-22T00:00:00,382,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00381,Le pouvoir d'évoluer en toute tranquilité,CLOTHING,KG,6,2024-01-12T00:00:00,383,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00382,Le pouvoir de louer de manière efficace,OTHER,L,7,2024-01-25T00:00:00,384,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00383,Le plaisir d'atteindre vos buts à la pointe,TOOLS,KG,27,2024-01-28T00:00:00,385,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00384,Le confort d'avancer autrement,OTHER,PCS,38,2024-01-30T00:00:00,386,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00385,L'art de louer de manière sûre,TOOLS,PCS,11,2024-01-09T00:00:00,387,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00386,Le droit de concrétiser vos projets plus facilement,TOOLS,L,22,2024-01-01T00:00:00,388,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00387,L'art de louer plus facilement,ELEC,KG,36,2024-01-22T00:00:00,389,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00388,L'avantage d'innover sans soucis,CLOTHING,PCS,9,2024-01-24T00:00:00,390,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00389,La possibilité de concrétiser vos projets à sa source,FOOD,PCS,47,2024-01-17T00:00:00,391,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00390,Le droit de rouler avant-tout,ELEC,BOX,26,2024-01-15T00:00:00,392,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00391,La liberté d'avancer autrement,TOOLS,KG,23,2024-01-10T00:00:00,393,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00392,La liberté de rouler sans soucis,TOOLS,PCS,3,2024-01-05T00:00:00,394,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00393,L'assurance de changer à sa source,ELEC,PCS,43,2024-01-03T00:00:00,395,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00394,L'avantage de concrétiser vos projets plus facilement,TOOLS,BOX,42,2024-01-14T00:00:00,396,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00395,Le confort de changer de manière efficace,CLOTHING,BOX,26,2024-01-09T00:00:00,397,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00396,Le pouvoir d'évoluer autrement,ELEC,PCS,22,2024-01-14T00:00:00,398,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00397,Le confort de changer à la pointe,FOOD,L,43,2024-01-22T00:00:00,399,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00398,La liberté de concrétiser vos projets à la pointe,OTHER,BOX,33,2024-01-22T00:00:00,400,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00399,L'art d'évoluer naturellement,TOOLS,PCS,14,2024-01-13T00:00:00,401,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00400,La possibilité de louer à l'état pur,OTHER,PCS,0,2024-01-07T00:00:00,402,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00401,L'assurance de changer à sa source,TOOLS,KG,49,2024-01-05T00:00:00,403,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00402,L'art de concrétiser vos projets avant-tout,TOOLS,L,20,2024-01-04T00:00:00,404,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00403,L'assurance d'avancer sans soucis,FOOD,BOX,47,2024-01-14T00:00:00,405,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00404,Le pouvoir de louer de manière sûre,ELEC,KG,24,2024-01-18T00:00:00,406,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00405,L'assurance de rouler en toute tranquilité,ELEC,L,4,2024-01-13T00:00:00,407,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00406,L'art de concrétiser vos projets à l'état pur,FOOD,BOX,1,2024-01-15T00:00:00,408,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00407,La possibilité d'innover plus facilement,FOOD,L,36,2024-01-14T00:00:00,409,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00408,La liberté de changer à l'état pur,OTHER,BOX,45,2024-01-21T00:00:00,410,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00409,Le droit d'avancer à l'état pur,CLOTHING,L,7,2024-01-13T00:00:00,411,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00410,Le droit de changer de manière sûre,FOOD,L,10,2024-01-26T00:00:00,412,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00411,L'art d'innover à l'état pur,OTHER,BOX,44,2024-01-30T00:00:00,413,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00412,Le plaisir de changer à la pointe,TOOLS,PCS,27,2024-01-28T00:00:00,414,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00413,Le confort d'innover de manière efficace,FOOD,KG,27,2024-01-19T00:00:00,415,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00414,L'assurance d'avancer avant-tout,CLOTHING,PCS,25,2024-01-28T00:00:00,416,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00415,Le droit de concrétiser vos projets plus facilement,TOOLS,L,14,2024-01-11T00:00:00,417,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00416,L'assurance de changer de manière sûre,ELEC,PCS,32,2024-01-21T00:00:00,418,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00417,L'art d'évoluer à sa source,FOOD,KG,49,2024-01-12T00:00:00,419,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00418,La liberté d'innover à sa source,TOOLS,KG,15,2024-01-04T00:00:00,420,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00419,L'avantage de changer plus facilement,ELEC,L,12,2024-01-06T00:00:00,421,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00420,Le pouvoir de louer plus rapidement,OTHER,KG,48,2024-01-25T00:00:00,422,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00421,La liberté d'avancer plus facilement,FOOD,KG,49,2024-01-21T00:00:00,423,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00422,L'assurance de louer en toute tranquilité,CLOTHING,BOX,48,2024-01-19T00:00:00,424,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00423,L'assurance de louer à sa source,OTHER,BOX,43,2024-01-30T00:00:00,425,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00424,Le confort d'atteindre vos buts à l'état pur,OTHER,L,40,2024-01-11T00:00:00,426,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00425,Le plaisir d'innover avant-tout,ELEC,BOX,4,2024-01-16T00:00:00,427,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00426,Le droit de louer autrement,CLOTHING,L,50,2024-01-09T00:00:00,428,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00427,La possibilité de changer de manière sûre,OTHER,PCS,22,2024-01-17T00:00:00,429,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00428,La liberté d'avancer à la pointe,FOOD,L,29,2024-01-15T00:00:00,430,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00429,La possibilité de louer plus rapidement,FOOD,PCS,23,2024-01-27T00:00:00,431,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00430,Le plaisir de changer à sa source,TOOLS,PCS,41,2024-01-28T00:00:00,432,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00431,Le plaisir de concrétiser vos projets de manière sûre,FOOD,BOX,29,2024-01-19T00:00:00,433,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00432,Le droit d'évoluer à la pointe,OTHER,PCS,28,2024-01-30T00:00:00,434,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00433,Le droit de rouler à la pointe,OTHER,KG,20,2024-01-20T00:00:00,435,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00434,La liberté d'innover à sa source,CLOTHING,KG,3,2024-01-15T00:00:00,436,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00435,L'art d'avancer à la pointe,FOOD,L,45,2024-01-03T00:00:00,437,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00436,Le plaisir de concrétiser vos projets de manière efficace,OTHER,KG,2,2024-01-08T00:00:00,438,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00437,Le pouvoir d'évoluer de manière sûre,CLOTHING,BOX,33,2024-01-17T00:00:00,439,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00438,La liberté d'atteindre vos buts avant-tout,OTHER,KG,23,2024-01-12T00:00:00,440,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00439,Le droit d'atteindre vos buts autrement,TOOLS,BOX,26,2024-01-25T00:00:00,441,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00440,La liberté d'évoluer à l'état pur,TOOLS,PCS,50,2024-01-21T00:00:00,442,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00441,Le plaisir d'évoluer à la pointe,TOOLS,PCS,21,2024-01-04T00:00:00,443,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00442,La possibilité d'évoluer à sa source,OTHER,BOX,18,2024-01-09T00:00:00,444,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00443,La liberté d'atteindre vos buts à la pointe,OTHER,KG,21,2024-01-03T00:00:00,445,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00444,L'avantage de rouler naturellement,OTHER,KG,22,2024-01-10T00:00:00,446,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00445,Le confort de changer autrement,CLOTHING,KG,38,2024-01-23T00:00:00,447,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00446,L'assurance de rouler à la pointe,FOOD,L,35,2024-01-13T00:00:00,448,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00447,La liberté d'atteindre vos buts à la pointe,TOOLS,KG,42,2024-01-23T00:00:00,449,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00448,La possibilité de louer à sa source,OTHER,PCS,41,2024-01-22T00:00:00,450,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00449,Le pouvoir d'évoluer en toute tranquilité,CLOTHING,L,1,2024-01-12T00:00:00,451,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00450,L'assurance d'évoluer de manière sûre,TOOLS,KG,13,2024-01-11T00:00:00,452,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00451,Le pouvoir de changer en toute tranquilité,CLOTHING,KG,14,2024-01-05T00:00:00,453,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00452,L'art d'avancer naturellement,ELEC,PCS,18,2024-01-28T00:00:00,454,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00453,Le plaisir de changer de manière efficace,FOOD,PCS,42,2024-01-11T00:00:00,455,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00454,L'art d'innover de manière efficace,OTHER,KG,38,2024-01-13T00:00:00,456,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00455,La possibilité de louer de manière sûre,ELEC,KG,11,2024-01-27T00:00:00,457,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00456,Le pouvoir de concrétiser vos projets à la pointe,OTHER,KG,46,2024-01-15T00:00:00,458,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00457,L'assurance d'innover avant-tout,FOOD,BOX,23,2024-01-22T00:00:00,459,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00458,Le droit d'avancer de manière sûre,ELEC,BOX,39,2024-01-10T00:00:00,460,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00459,L'art de changer avant-tout,CLOTHING,KG,34,2024-01-08T00:00:00,461,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00460,Le pouvoir de rouler sans soucis,TOOLS,BOX,12,2024-01-12T00:00:00,462,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00461,Le confort de rouler en toute tranquilité,OTHER,BOX,29,2024-01-25T00:00:00,463,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00462,Le droit de louer en toute tranquilité,TOOLS,BOX,32,2024-01-17T00:00:00,464,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00463,La liberté de concrétiser vos projets naturellement,CLOTHING,KG,12,2024-01-26T00:00:00,465,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00464,L'art d'évoluer plus facilement,OTHER,KG,16,2024-01-02T00:00:00,466,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00465,Le confort de rouler à la pointe,CLOTHING,L,35,2024-01-30T00:00:00,467,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00466,Le plaisir de rouler de manière sûre,FOOD,PCS,18,2024-01-03T00:00:00,468,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00467,Le plaisir d'évoluer de manière efficace,ELEC,L,28,2024-01-29T00:00:00,469,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00468,La possibilité de concrétiser vos projets avant-tout,OTHER,KG,27,2024-01-03T00:00:00,470,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00469,L'avantage de concrétiser vos projets à l'état pur,ELEC,BOX,22,2024-01-30T00:00:00,471,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00470,La possibilité d'innover de manière efficace,FOOD,BOX,3,2024-01-13T00:00:00,472,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00471,Le confort d'avancer plus rapidement,OTHER,L,15,2024-01-13T00:00:00,473,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00472,L'art d'innover de manière sûre,FOOD,L,14,2024-01-01T00:00:00,474,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00473,Le plaisir de louer autrement,TOOLS,PCS,45,2024-01-21T00:00:00,475,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00474,L'avantage de changer à sa source,TOOLS,KG,8,2024-01-02T00:00:00,476,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00475,L'assurance d'avancer à l'état pur,TOOLS,BOX,44,2024-01-27T00:00:00,477,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00476,Le plaisir d'atteindre vos buts autrement,ELEC,BOX,28,2024-01-20T00:00:00,478,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00477,La possibilité de concrétiser vos projets de manière efficace,FOOD,PCS,1,2024-01-09T00:00:00,479,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00478,Le confort d'avancer naturellement,ELEC,KG,35,2024-01-31T00:00:00,480,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00479,La liberté de louer sans soucis,OTHER,BOX,7,2024-01-25T00:00:00,481,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00480,L'avantage de concrétiser vos projets en toute tranquilité,TOOLS,KG,19,2024-01-04T00:00:00,482,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00481,Le plaisir d'innover à la pointe,FOOD,KG,26,2024-01-21T00:00:00,483,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00482,Le confort de louer de manière efficace,OTHER,BOX,4,2024-01-04T00:00:00,484,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00483,L'avantage d'évoluer de manière sûre,CLOTHING,PCS,40,2024-01-17T00:00:00,485,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00484,Le plaisir d'innover plus facilement,OTHER,KG,45,2024-01-05T00:00:00,486,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00485,L'avantage d'atteindre vos buts à l'état pur,TOOLS,BOX,0,2024-01-20T00:00:00,487,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00486,Le pouvoir d'évoluer de manière sûre,TOOLS,KG,36,2024-01-14T00:00:00,488,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00487,La possibilité de louer de manière efficace,ELEC,PCS,33,2024-01-12T00:00:00,489,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00488,L'art d'atteindre vos buts de manière sûre,FOOD,PCS,24,2024-01-28T00:00:00,490,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00489,Le droit de changer avant-tout,CLOTHING,PCS,40,2024-01-13T00:00:00,491,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00490,Le pouvoir d'évoluer à l'état pur,TOOLS,L,47,2024-01-01T00:00:00,492,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00491,Le plaisir d'innover de manière sûre,TOOLS,PCS,22,2024-01-08T00:00:00,493,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00492,Le plaisir d'avancer en toute tranquilité,FOOD,L,8,2024-01-02T00:00:00,494,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00493,Le pouvoir d'évoluer à sa source,TOOLS,L,41,2024-01-06T00:00:00,495,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00494,L'art de louer plus rapidement,CLOTHING,BOX,40,2024-01-06T00:00:00,496,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00495,L'assurance d'avancer plus facilement,ELEC,PCS,45,2024-01-25T00:00:00,497,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00496,Le confort d'atteindre vos buts naturellement,CLOTHING,PCS,18,2024-01-07T00:00:00,498,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00497,Le plaisir de rouler plus rapidement,FOOD,KG,2,2024-01-11T00:00:00,499,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00498,La possibilité d'avancer sans soucis,TOOLS,BOX,34,2024-01-16T00:00:00,500,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
+1.0,SKU-00499,Le pouvoir de rouler en toute tranquilité,TOOLS,PCS,48,2024-01-21T00:00:00,501,"1 validation error for CatalogueRecordV1
+schema_version
+  Input should be '1.0' [type=literal_error, input_value=1.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error"
